@@ -41,14 +41,13 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To RPK's World.</h2>
-			<h3>...</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; India, Asia </p>
+		<p>&copy; @India </p>
 	</footer>
 </div>
 
